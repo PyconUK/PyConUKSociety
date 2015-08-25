@@ -13,6 +13,18 @@ Everyone is welcome at the AGM and we are particularly keen to have new people j
 
 The **next AGM** will be held between September 18th-21st, 2015 at [PyCon UK](http://pyconuk.org/).
 
+## The current committee
+
+ * Zeth Green (Chair)
+ * Mary Mooney (Treasurer)
+ * Luke Stanley
+ * Sarah Mount
+ * Nicholas Tollervey
+ * Peter Inglesby
+ * Colin Moore-Hill
+ * Martin Hellwig
+ * Michael Foord
+
 ## How to contribute
 
 We welcome pull requests for AGM agenda items or corrections to the minutes.
