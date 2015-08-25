@@ -9,10 +9,6 @@ Every year the Society holds an Annual General Meeting, to elect its officers an
 The AGM is normally held during the PyCon UK conference, to make it easier for as many people as possible to attend.
 Everyone is welcome at the AGM and we are particularly keen to have new people join the Society.
 
-## The next AGM
-
-The **next AGM** will be held between September 18th-21st, 2015 at [PyCon UK](http://pyconuk.org/).
-
 ## The current committee
 
  * Zeth Green (Chair)
@@ -24,6 +20,16 @@ The **next AGM** will be held between September 18th-21st, 2015 at [PyCon UK](ht
  * Colin Moore-Hill
  * Martin Hellwig
  * Michael Foord
+
+## The last AGM
+
+The last AGM was held on 21 September 2014 at The Innovation Centre, Coventry.
+[Minutes of the last AGM](agm_minutes/2014AGM_minutes.md) are available.
+
+## The next AGM
+
+The **next AGM** will be held between September 18th-21st, 2015 at [PyCon UK](http://pyconuk.org/).
+The [agenda for the next AGM](agm_agendas/2015AGM_agenda.md) is available.
 
 ## How to contribute
 
