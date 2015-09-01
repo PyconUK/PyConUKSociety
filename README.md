@@ -28,8 +28,9 @@ The last AGM was held on 21 September 2014 at The Innovation Centre, Coventry.
 
 ## The next AGM
 
-The **next AGM** will be held between September 18th-21st, 2015 at [PyCon UK](http://pyconuk.org/).
-The [agenda for the next AGM](agm_agendas/2015AGM_agenda.md) is available.
+The **next AGM** will be held on Saturday 19th September 2015 14:00
+(2pm) at [PyCon UK](http://pyconuk.org/).  The [agenda for the next
+AGM](agm_agendas/2015AGM_agenda.md) is available.
 
 ## How to contribute
 
