@@ -43,6 +43,7 @@ are particularly keen to have new people join the Society committee.
 
 The last AGM was held on 21 September 2014 at The Innovation Centre, Coventry.
 [Minutes of the last AGM](agm_minutes/2014AGM_minutes.md) are available.
+The [financial statement from the 2014 conference](agm_finances/2014AGM_finances.md) is also available.
 
 ## The next AGM
 
