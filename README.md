@@ -34,7 +34,7 @@ are particularly keen to have new people join the Society committee.
  * David Bottrill
  * Paul Brian
  * Aimee Challenor
- * Kristian Glass
+ * Kristian Glass (Treasurer)
  * Zeth Green (Chair)
  * Steve Holden
  * Peter Inglesby
@@ -54,15 +54,14 @@ are particularly keen to have new people join the Society committee.
 
 ## The last AGM
 
-The last AGM was held on 21 September 2014 at The Innovation Centre, Coventry.
-[Minutes of the last AGM](agm_minutes/2014AGM_minutes.md) are available.
+The last AGM was held on 19 September 2015 at The Innovation Centre, Coventry.
+[Minutes of the last AGM](agm_minutes/2015AGM_minutes.md) are available.
 The [financial statement from the 2014 conference](agm_finances/2014AGM_finances.md) is also available.
 
 ## The next AGM
 
-The **next AGM** will be held on Saturday 19th September 2015 14:00
-(2pm) at [PyCon UK](http://pyconuk.org/).  The [agenda for the next
-AGM](agm_agendas/2015AGM_agenda.md) is available.
+The **next AGM** will be held on Saturday 17th September 2016 at [PyCon UK](http://pyconuk.org/).
+The [agenda for the next AGM](agm_agendas/2016AGM_agenda.md) is available.
 
 ## How to contribute
 
