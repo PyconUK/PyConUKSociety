@@ -1,13 +1,31 @@
 # PyConUKSociety
 
-This repository contains the constitution, AGM agendas and minutes for the PyCon UK Society.
+This repository contains the constitution, AGM agendas and minutes for
+the PyCon UK Society.
 
-The PyCon UK Society is the formal organisation behind the UK Python community.
-Members of the Society organise the [PyCon UK](http://pyconuk.org/) conference and associated events, and the Society is legally and financially responsible for those events.
+## What is the PyCon UK Society?
 
-Every year the Society holds an Annual General Meeting, to elect its officers and plan events for the coming year.
-The AGM is normally held during the PyCon UK conference, to make it easier for as many people as possible to attend.
-Everyone is welcome at the AGM and we are particularly keen to have new people join the Society.
+The PyCon UK conference is organised using an open mailing list for
+all the crew to join. If you wish to volunteer to help with PyCon UK
+2016, we welcome you! Please feel free to join the conference
+organiser [mailing list](https://mail.python.org/mailman/listinfo/pyconuk-adm).
+
+The PyCon UK Society is the formal organisation behind the UK Python
+community.  The Society exists to promote the Python language in the
+UK, particularly by organising the [PyCon UK](http://pyconuk.org/)
+conference and associated events, and the Society is legally and
+financially responsible for those events.
+
+Every year the Society holds an Annual General Meeting, to elect its
+officers and plan events for the coming year.
+
+The AGM is normally held during the PyCon UK conference, to make it
+easier for as many people as possible to attend and everyone is
+welcome.
+
+The committee is a only subset of the organising crew. You do not have
+to join the committee to be involved in running PyCon UK, however we
+are particularly keen to have new people join the Society committee.
 
 ## The current committee
 
