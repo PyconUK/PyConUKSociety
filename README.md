@@ -29,15 +29,28 @@ are particularly keen to have new people join the Society committee.
 
 ## The current committee
 
+ * Craig Barnes
+ * Cory Benfield
+ * David Bottrill
+ * Paul Brian
+ * Aimee Challenor
+ * Kristian Glass
  * Zeth Green (Chair)
- * Mary Mooney (Treasurer)
- * Luke Stanley
- * Sarah Mount
- * Nicholas Tollervey
+ * Steve Holden
  * Peter Inglesby
- * Colin Moore-Hill
- * Martin Hellwig
- * Michael Foord
+ * Vincent Knight
+ * Gary Martin
+ * Mary Mooney (Treasurer)
+ * Sarah Mount
+ * Chloe Parkes
+ * Carrie-Anne Philbin
+ * Daniele Procida
+ * Peter Russell
+ * Mike Sandford
+ * Ed Singleton
+ * Michael Sparks
+ * Luke Stanley
+ * Luis Visintini
 
 ## The last AGM
 
