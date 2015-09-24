@@ -114,6 +114,31 @@ These amendments were passed by a show of hands.
 
 Before the meeting, several people had put themselves forwards to serve as members of the committee.
 Zeth decided that they should be elected *en bloc*.
+The proposed list of committee members was as follows:
+
+ * Craig Barnes
+ * Cory Benfield
+ * David Bottrill
+ * Paul Brian
+ * Aimee Challenor
+ * Kristian Glass (Treasurer)
+ * Zeth Green (Chair)
+ * Steve Holden
+ * Peter Inglesby
+ * Vincent Knight
+ * Gary Martin
+ * Mary Mooney (Treasurer)
+ * Sarah Mount
+ * Chloe Parkes
+ * Carrie-Anne Philbin
+ * Daniele Procida
+ * Peter Russell
+ * Mike Sandford
+ * Ed Singleton
+ * Michael Sparks
+ * Luke Stanley
+ * Neil Stoker
+ * Luis Visintini
 
 There will be a meeting in the autumn to decide who does what.
 
