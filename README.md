@@ -41,7 +41,9 @@ You do not have to join the committee to be involved in running PyCon UK, howeve
  * Ed Singleton
  * Michael Sparks
  * Luke Stanley
+ * Neil Stoker
  * Luis Visintini
+
 
 ## The last AGM
 
