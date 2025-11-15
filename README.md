@@ -1,5 +1,7 @@
 # PyConUKSociety
 
+**The PyCon UK Society has been wound up. For further information about PyCon UK, see [The UK Python Association](https://uk.python.org/).**
+
 This repository contains the constitution, AGM agendas and minutes for
 the PyCon UK Society.
 
